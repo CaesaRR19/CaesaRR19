@@ -36,11 +36,9 @@ me.say_hi()
 [![HackerRank](https://img.shields.io/badge/HackerRank-@cesarcorn19-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cesarcorn19?hr_r=1)
 
 ## Github Stats
-<div>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=caesarr19&theme=dark" alt="caesarr19" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=caesarr19&show_icons=true&theme=dark" alt="caesarr19" /></p> 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caesarr19&show_icons=true&theme=dark&layout=compact" alt="caesarr19" /></p>
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caesarr19&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarr19&layout=compact&theme=dark)
 
 ## Github Trophies
 
