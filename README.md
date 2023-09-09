@@ -44,7 +44,15 @@ me.say_hi()
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=caesarr19&theme=discord&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Wakatime Stats
 
+### Code Time
+
+[![wakatime](https://wakatime.com/badge/user/47c57c99-b62c-485e-b62e-497f9c4cf244.svg)](https://wakatime.com/@47c57c99-b62c-485e-b62e-497f9c4cf244)
+
+### Languages used in the last week
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=caesarr19&hide_title=true&hide_border=false&langs_count=5&theme=dark)
 
 
 
