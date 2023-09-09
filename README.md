@@ -37,29 +37,8 @@ me.say_hi()
 
 ## Github Stats
 
-<div style="display: flex">
-<img
-src="https://github-readme-stats.vercel.app/api?username=caesarr19&show_icons=true&theme=dark"
-alt="GitHub Stats"
-/>
-<div
-style="
-display: flex;
-flex-direction: column-reverse;
-align-items: flex-start;
-"
->
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesarr19&layout=compact&theme=dark"
-alt="Top Languages"
-/>
-<a href="https://wakatime.com/@47c57c99-b62c-485e-b62e-497f9c4cf244"
-><img
-src="https://wakatime.com/badge/user/47c57c99-b62c-485e-b62e-497f9c4cf244.svg"
-alt="Total time coded since Sep 8 2023"
-/></a>
-</div>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caesarr19&show_icons=true&theme=dark) 
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarr19&layout=compact&theme=dark) 
 
 ## Github Trophies
 
