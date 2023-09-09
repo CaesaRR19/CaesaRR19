@@ -37,8 +37,8 @@ me.say_hi()
 
 ## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caesarr19&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarr19&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caesarr19&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarr19&layout=compact&theme=dark) [![Hours of code](https://wakatime.com/badge/user/47c57c99-b62c-485e-b62e-497f9c4cf244.svg)](https://wakatime.com/@47c57c99-b62c-485e-b62e-497f9c4cf244)
+
 
 ## Github Trophies
 
