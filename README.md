@@ -5,7 +5,7 @@ class SoftwareDeveloperWannabe:
     def __init__(self):
         self.__full_name = "César Omar Ramos Nolasco"
         self.__age = 19
-        self.__language_spoken = ["Spanish", "A lil bit of English"]
+        self.__languages_spoken = ["Spanish", "A lil bit of English"]
         self.__country = "Dominican Republic"
         self.__goal = "Be a nice programmer :)"
 
