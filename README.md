@@ -1,11 +1,11 @@
 # Hello :)
 
 ```python
-class SoftwareDeveloperWannabe:
+class SoftwareDeveloper:
     def __init__(self):
         self.__full_name = "César Omar Ramos Nolasco"
-        self.__age = 19
-        self.__languages_spoken = ["Spanish", "A lil bit of English"]
+        self.__age = 20
+        self.__languages_spoken = ["Spanish", "English"]
         self.__country = "Dominican Republic"
         self.__goal = "Be a nice programmer :)"
 
@@ -13,7 +13,7 @@ class SoftwareDeveloperWannabe:
         print("Hi!, Thank you for checking out my profile, I really appreciate it <3")
 
 
-me = SoftwareDeveloperWannabe()
+me = SoftwareDeveloper()
 me.say_hi()
 ```
 
